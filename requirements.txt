@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+pdf2image
+pytesseract
+sentence-transformers
+chromadb==0.4.2
+openai
+python-multipart
+streamlit
+python-dotenv
+pillow
+pytest
